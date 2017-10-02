@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/heesoopark/Desktop/4444/heesoo-CountBook/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/heesoopark/.android/build-cache/c1c77958db29bd704030ac7279d5deac32623a2e/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/heesoopark/Desktop/4444/heesoo-CountBook/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/heesoopark/.android/build-cache/c1c77958db29bd704030ac7279d5deac32623a2e/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/heesoopark/Desktop/4444/heesoo-CountBook/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/heesoopark/.android/build-cache/c1c77958db29bd704030ac7279d5deac32623a2e/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/heesoopark/Desktop/4444/heesoo-CountBook/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/heesoopark/.android/build-cache/c1c77958db29bd704030ac7279d5deac32623a2e/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

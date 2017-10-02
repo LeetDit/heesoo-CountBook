@@ -1,0 +1,7 @@
+#Sun Oct 01 23:48:31 MDT 2017
+base.0=/Users/heesoopark/Desktop/4444/heesoo-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3f6fc462770001fa9a958cc95c5f64e4753dc478
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/heesoopark/Desktop/4444/heesoo-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c05590af6c1ec19c2ad7e345d36e3e81ed1ac0f3/classes.dex
+base.1=/Users/heesoopark/Desktop/4444/heesoo-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c05590af6c1ec19c2ad7e345d36e3e81ed1ac0f3
+file.0=/Users/heesoopark/Desktop/4444/heesoo-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3f6fc462770001fa9a958cc95c5f64e4753dc478/classes.dex

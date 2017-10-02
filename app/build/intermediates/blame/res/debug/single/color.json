@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/heesoopark/Desktop/4444/heesoo-CountBook/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/heesoopark/.android/build-cache/c1c77958db29bd704030ac7279d5deac32623a2e/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/heesoopark/Desktop/4444/heesoo-CountBook/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/heesoopark/.android/build-cache/c1c77958db29bd704030ac7279d5deac32623a2e/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/heesoopark/Desktop/4444/heesoo-CountBook/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/heesoopark/.android/build-cache/c1c77958db29bd704030ac7279d5deac32623a2e/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/heesoopark/Desktop/4444/heesoo-CountBook/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/heesoopark/.android/build-cache/c1c77958db29bd704030ac7279d5deac32623a2e/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/heesoopark/Desktop/4444/heesoo-CountBook/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/heesoopark/.android/build-cache/c1c77958db29bd704030ac7279d5deac32623a2e/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/heesoopark/Desktop/4444/heesoo-CountBook/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/heesoopark/.android/build-cache/c1c77958db29bd704030ac7279d5deac32623a2e/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/heesoopark/Desktop/4444/heesoo-CountBook/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/heesoopark/.android/build-cache/c1c77958db29bd704030ac7279d5deac32623a2e/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/heesoopark/Desktop/4444/heesoo-CountBook/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/heesoopark/.android/build-cache/c1c77958db29bd704030ac7279d5deac32623a2e/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/heesoopark/Desktop/4444/heesoo-CountBook/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/heesoopark/.android/build-cache/c1c77958db29bd704030ac7279d5deac32623a2e/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/heesoopark/Desktop/4444/heesoo-CountBook/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/heesoopark/.android/build-cache/c1c77958db29bd704030ac7279d5deac32623a2e/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/heesoopark/Desktop/4444/heesoo-CountBook/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/heesoopark/.android/build-cache/c1c77958db29bd704030ac7279d5deac32623a2e/output/res/color/switch_thumb_material_light.xml"
+    }
+]
