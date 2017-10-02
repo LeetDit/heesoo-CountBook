@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">heesoo-CountBook</string>
+    <string name="name">Name</string>
+    <string name="initvalue">Initial Value</string>
+    <string name="currentvalue">Current Value</string>
+    <string name="comment">Comment</string>
+    <string name="inittitle">Initial Value: </string>
+    <string name="currenttitle">Current Value: </string>
+    <string name="nametitle">Name :</string>
+    <string name="datetitle">Date :</string>
+    <string name="commenttitle">Comment :</string>
+</resources>
